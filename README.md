@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prithvi Singh</h1>
-<h3 align="center">A passionate backend engineer from India</h3>
-
-- 🌱 I’m currently learning **Golang**
+<h3 align="center">A passionate Web Developer (Backend) India</h3>
 
 - 💬 Ask me about **Python, Javascript**
+- 🌱 2+ years of hands-on experience of building and maintaining backend systems in a microservice architecture.
+- 💬 Currently exploring more services of **AWS stack**.
 
 - 📫 How to reach me **https://www.linkedin.com/in/prithvi-singh-ba416597/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prethweee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="prethweee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prithvi-singh-ba416597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="prithvi-singh-ba416597" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11246399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="11246399" height="30" width="40" /></a>
 <a href="https://instagram.com/prithvi840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="prithvi840" height="30" width="40" /></a>
